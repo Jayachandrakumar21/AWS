@@ -3,3 +3,5 @@ EC2
 IAM
 Rout 53
 VPN
+ELK
+S3
