@@ -8,3 +8,4 @@ ELK
 S3
 elastic
 Cloud_Formation
+Cloud_Watch
