@@ -5,8 +5,7 @@ AMI (Amazon Machine Image)
 Rout 53
 VPN (Virtual Private Network) 
 ELK 
-S3
-elastic
-Cloud_Formation
-Cloud_Watch
-cloud
+S3 Database
+elastic 
+Cloud_Formation 
+Cloud_Watch  used for monitoring
