@@ -1,12 +1,12 @@
 AWS
 EC2
-IAM
+I AM
 AMI (Amazon Machine Image)
-Rout 53
+Rout53
 VPN (Virtual Private Network) 
 ELK 
 S3 Database
 elastic 
 Cloud_Formation 
-Cloud_Watch  used for monitoring
+Cloud_Watch used for monitoring
 EPC
