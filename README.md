@@ -1,4 +1,4 @@
-# Amazon Web Services
+Amazon Web Services
 EC2
 IAM
 AMI (Amazon Machine Image)
