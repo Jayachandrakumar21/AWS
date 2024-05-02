@@ -1,6 +1,6 @@
 Amazon Web Services
 EC2
-IAM
+I AM
 AMI (Amazon Machine Image)
 Rout53
 VPN (Virtual Private Network) 
