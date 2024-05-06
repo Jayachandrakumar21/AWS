@@ -8,4 +8,4 @@ ELK
 S3 Database
 elastic 
 Cloud_Formation 
-Cloud_Watch used for monitorin
+Cloud_Watch used for monitoring
