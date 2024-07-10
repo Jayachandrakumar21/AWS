@@ -1,5 +1,6 @@
 # AWS
 Amazon Web Services
+security group
 EC2
 I AM
 AMI (Amazon Machine Image)
