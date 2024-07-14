@@ -1,5 +1,6 @@
- AWS
+#  AWS
 Amazon Web Services
+Data centers, region
 security group
 EC2
 I AM
